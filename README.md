@@ -27,9 +27,6 @@ Combino mi formación técnica con la curiosidad de un ajedrecista, la disciplin
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📂 Proyecto destacado
-### **[Gestor de Datos Web](enlace-al-repo-o-demo)**
 Aplicación full stack desarrollada con **Flask (Python)** en el backend, **MySQL** como base de datos y **React** en el frontend.  
 Incluye:
 - 🔹 CRUD completo de datos
@@ -46,9 +43,7 @@ Incluye:
 ---
 
 ## 📬 Contacto
-- 📧 **Email:** tuemail@example.com  
-- 💼 [LinkedIn](enlace-a-tu-perfil)  
-- 🐙 [GitHub](https://github.com/TU_USUARIO_GITHUB)
+- 📧 **Email:** matcar1229@gmail.com  
 
 ---
 > _"El código es como el ajedrez: cada movimiento cuenta."_ ♟️
