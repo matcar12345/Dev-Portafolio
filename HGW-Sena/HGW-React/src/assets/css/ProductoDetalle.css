@@ -1,0 +1,9 @@
+/* ProductoDetalle.css */
+.producto-detalle .badge.stock-ok  { background: #e6f9f0; color: #1a7f5a; }
+.producto-detalle .badge.stock-low { background: #fffbe6; color: #b45309; }
+.producto-detalle .badge.stock-out { background: #fef2f2; color: #dc2626; }
+
+/* Si quieres un hover específico en thumbnails: */
+.producto-detalle .img-thumbnail:hover {
+    border-color: #2c3e50;
+}
