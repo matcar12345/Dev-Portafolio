@@ -7,8 +7,7 @@
 ---
 
 ## 🚀 Sobre mí
-Soy un desarrollador autodidacta que busca siempre unir **buenas prácticas**, rendimiento y código limpio.  
-Combino mi formación técnica con la curiosidad de un ajedrecista, la disciplina del gimnasio y la creatividad del piano.
+Soy un desarrollador autodidacta que busca siempre unir buenas prácticas, rendimiento y código limpio. Combino mi formación técnica con la curiosidad de un ajedrecista, la disciplina del gimnasio, la creatividad del piano y el interés por la psicología aplicada y la comunicación persuasiva, que potencian mi capacidad de análisis, empatía y presentación de ideas.
 
 ---
 
