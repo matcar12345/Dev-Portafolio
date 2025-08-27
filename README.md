@@ -37,8 +37,8 @@ Incluye:
 ---
 
 ## 📈 GitHub Stats
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight)
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=matcar12345&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matcar12345&layout=compact&theme=tokyonight)
 
 ---
 
